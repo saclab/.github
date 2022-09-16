@@ -21,7 +21,7 @@ Mutations in the P-type copper transporting ATPase, ATP7A, results in severe her
 The Sacchettini Lab is currently developing a treatment strategy based upon restoration of cytochrome c oxidase functions.
 
 ## Drug Discovery Software Engineering
-At Saclabs we continue our efforts towards building open source softwares that support the scientific community.
+At SACLab we continue our efforts towards building open source softwares that support the scientific community.
 
 # Funding
 ![NIH](/profile/images/NIH.png) ![BMGF](/profile/images/BMGF.png) ![WELCH](/profile/images/WELCH.png) ![DOD](/profile/images/DOD.png)
