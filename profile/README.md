@@ -17,7 +17,6 @@ We initiated a SARS-CoV2 drug discovery project seeking to produce a lead for ne
 Infectious diseases, such as malaria, diarrheal disease, and neglected tropical infections kill over 8 million people each year, (Global Burden of Disease 2015, Liu.L et al 2015). Our research interests are focused on biological evaluation of chemical compounds on key human parasites for drug discovery and clinically corroborating these compounds. Our lab currently focuses on parasitic diseases, such as malaria, cryptosporidiosis, and two major kinetoplastid diseases – human African trypanosomiasis (sleeping sickness), and Chagas disease.
 
 ## Rare Genetic Diseases
-### MENKES DISEASE
 Mutations in the P-type copper transporting ATPase, ATP7A, results in severe hereditary copper deficiency known as Menkes disease. Menkes follows an X-linked recessive inheritance pattern with male newborns exhibiting symptomatic illness. Menkes patients present with various hair and connective tissue abnormalities, failure to thrive, severe neurodegeneration, and death typically before three years of age. In the brain, copper deficiency impairs the function of cytochrome c oxidase, a component of mitochondrial electron transport required for energy generation.
 The Sacchettini Lab is currently developing a treatment strategy based upon restoration of cytochrome c oxidase functions.
 
@@ -25,4 +24,4 @@ The Sacchettini Lab is currently developing a treatment strategy based upon rest
 At Saclabs we continue our efforts towards building open source softwares that support the scientific community.
 
 # Funding
-| ![NIH](/profile/images/NIH.png) | ![BMGF](/profile/images/BMGF.png | ![WELCH](/profile/images/WELCH.png | ![DOD](/profile/images/DOD.png
+![NIH](/profile/images/NIH.png) ![BMGF](/profile/images/BMGF.png) ![WELCH](/profile/images/WELCH.png) ![DOD](/profile/images/DOD.png)
