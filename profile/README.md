@@ -1,2 +1,2 @@
 ## Sacchettini Laboratory
-![Intro Slide](/images/intro-1.png)
+![Intro Slide](/profile/images/intro-1.png)
